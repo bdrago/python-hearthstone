@@ -31,9 +31,3 @@ available in the LICENSE file.
 
 The CardDefs.xml file distributed on PyPI contains Hearthstone data that
 is copyright © Blizzard Entertainment.
-
-
-### Community
-
-This is a [HearthSim](https://hearthsim.info) project. All development
-happens on our IRC channel `#hearthsim` on [Freenode](https://freenode.net).
